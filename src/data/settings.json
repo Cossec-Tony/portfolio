@@ -1,0 +1,234 @@
+{
+    "title" : "Portfolio de Hugo Cossec",
+    "lastname": "Cossec",
+    "firstname": "Hugo",
+    "portrait" : "avatar.jpg",
+    "intro": "Étudiant en BUT MMI spé parcours stratégie de communication numérique et design d’expérience",
+    "biography": "Étudiant en 2ème année de BUT MMI (métier du multimédia et de l'internet) à l’IUT de Lannion, je me passionne pour tout ce qui touche à la communication numérique. Curieux, créatif et travailleur, je suis toujours prêt à réalisé de nouveaux projets ! 🚀",
+    "cv" : "CV.pdf",
+    "trainings": [
+        {
+            "name" : "BUT Métiers du Multimédia et de l'Internet",
+            "school" : "IUT de Lannion, Université de Rennes",
+            "start" : 2023,
+            "end" : 2026
+        },
+        {
+            "name" : "Bac STI2D mention Bien",
+            "school" : "Lycée Chaptal de St-Brieuc",
+            "end" : 2023
+        }
+    ],
+
+    "skills": [
+        {
+            "title": "Création multimédia",
+            "description": "Création d'affiches, flyers, maquette, vidéo type interviews etc...",
+            "tools": [
+                "figma",
+                "Illustrator",
+                "Premiere Pro",
+                "Davinci Resolve"
+            ],
+            "level": 4
+        },
+        {
+            "title": "Photographe",
+            "description": "Crée de belles photos pour des publications sur vos réseaux sociaux etc...",
+            "tools": [
+                "Photoshop",
+                "After Effect"
+            ],
+            "level": 4
+        },
+        {
+            "title": "3D",
+            "description": "Création de modèle 3D, création de scène, petite animations...",
+            "tools": [
+                "Blender"
+            ],
+            "level": 3
+        },
+        {
+            "title": "Développeur Web",
+            "description": "Création de page web statique, dynamique",
+            "tools": [
+                "PHP",
+                "JS",
+                "Express JS",
+                "Vue.JS",
+                "Bulma",
+                "CMS type prestashop"
+            ],
+            "level": 3
+        }
+    ],
+
+    "projects": [
+        {
+            "title": "3 mois d'alternance en tant que développeur Web chez ICICARTEGRISE",
+            "context": "D'août à octobre, j'ai occupé le poste d'alternant développeur full stack chez IciCarteGrise à Brest. Mon rôle consistait à corriger des bugs sur le site principal et à développer de nouvelles pages en assurant l'ensemble du processus, de la conception des maquettes à l'intégration. Sur un second site, une plateforme BtoB, j'ai travaillé sur l'ajout de nouvelles fonctionnalités ainsi que sur diverses corrections de bugs.",
+             "missions": [
+                "Correction de bugs et optimisation du site principal",
+                "Développement et intégration de nouvelles pages",
+                "Ajout de fonctionnalités sur la plateforme BtoB (système de recherche par filtres, gestion des rôles)",
+                "Tests et validation des développements"
+            ],
+            "outputs" :  [
+                "Corrections et améliorations du site principal",
+                "Pages 'Pièces à fournir' et 'Notre équipe' intégrées et fonctionnelles",
+                "Système de recherche avancé sur la plateforme BtoB"
+              ],
+            "skills": [
+                "Dev Web"
+            ],
+            "link" : "https://www.icicartegrise.fr/",
+            "picture": "iciCarteGrise.png"
+        },
+        {
+            "title": "Interview d'artistes au sein d'un festival",
+            "context": "Lors de la 4ᵉ édition du festival AttrapSon à Châtelaudren-Plouagat, j’ai été bénévole en tant que vidéaste tout au long du week-end. Avec un collègue, nous avons réalisé des interviews d’artistes au format 'Fast & Curious', inspiré de Konbini. Nous avons interviewé une dizaine d’artistes, dont Superbus, Magic System, Féfé et Asian Dub Foundation. De l’accueil des artistes à la mise en place du plateau de tournage, en passant par la captation et le montage, nous avons géré l’ensemble du processus. Le montage était réalisé immédiatement après chaque interview afin d’assurer une diffusion rapide des vidéos.",
+            "missions" : [
+                "Préparation et installation du matériel de tournage",
+                "Accueil et gestion des artistes pour les interviews",
+                "Réalisation d’interviews dynamiques au format 'Fast & Curious'",
+                "Captation vidéo et prise de son",
+                "Montage rapide des interviews pour une diffusion quasi instantanée",
+                "Coordination avec l’équipe de communication du festival pour la publication"
+              ],
+            "outputs" :  [
+                "Interviews montées et prête à la diffusion pendant le festival",
+                "Expérience et méthodologie développées pour la couverture vidéo d'événements futurs"
+              ],
+            "skills": [
+                "Réseaux sociaux",
+                "Audiovisuel"
+            ],
+            "link" : "https://www.instagram.com/p/DEMxpQAi4U6/",
+            "picture": "imgProjetMagicSystem.png"
+        },
+        {
+            "title": "Prix du meilleur prototype numérique 2024 de Fabrik ta pépite",
+            "context": "Lors de la 3ème édition de Fabrik ta pépite en 2024, j'ai eu l'opportunité de contribuer au projet Localink, une application visant à simplifier les états des lieux pour les locataires et les propriétaires. Ma mission principale a été de concevoir l'expérience utilisateur (UX) et l'interface utilisateur (UI), en élaborant une maquette complète et fonctionnelle de l'application. Ce projet a suscité l'intérêt des médias, avec des articles parus dans Le Trégor, Ouest France et le journal indépendant IMPACT. La cérémonie de remise des prix s'est tenue à Quimper, en présence du maire, d'élus locaux, de personnalités politiques et d'entrepreneurs bretons, réunissant plus d'une centaine d'étudiants, de l'IUT aux écoles d'ingénieurs. Nous avons eu l'honneur de recevoir le deuxième prix du meilleur prototype numérique pour notre application. Ce projet a été une expérience enrichissante, me permettant de développer mes compétences en design UX/UI, en vidéo, en prise de parole, d'avoir un premier pied dans l'entreprenariat, et de contribuer à une solution numérique répondant à un besoin concret dans le secteur immobilier. ",
+            "missions" : [
+                "Conception UX/UI et prototypage",
+                "Création d'une maquette interactive fonctionnelle",
+                "Développement d’une vidéo de présentation",
+                "Participation aux ateliers d'entrepreneuriat et pitch du projet"],
+            "outputs" :  [
+                "Prototype interactif de l'application Localink",
+                "Supports de communication et vidéos de présentation",
+                "Présentation du projet devant un jury d'experts"],
+            "skills": [
+                "UX / UI",
+                "Entrepreneuriat",
+                "Gestion de projet",
+                "Speaker"
+            ],
+            "link" : "https://actu.fr/bretagne/lannion_22113/lannion-immobilier-leur-appli-veut-faciliter-letat-des-lieux_61006418.html",
+            "picture": "localink.png"
+        },
+        {
+            "title": "Photographe pour le Breizh Air Show",
+            "context": "En septembre dernier, j'ai eu l'immense privilège de participer à la 5ᵉ édition du Meeting aérien de Morlaix en tant que photographe bénévole. Grâce à l'opportunité offerte par Benoist DEGONNE, professeur d'audiovisuel à l'IUT de Lannion, j'ai eu le bonheur de capturer l'énergie et la beauté de cet événement. Pendant ces deux jours, nous avons été témoins de performances aériennes mettant en lumière des aéronefs de la marine nationale comme les Rafales, l'hélicoptère NH-90 'Caïman', et bien sûr, la légendaire Patrouille de France ! Un spectacle qui ma permis de saisir des moments uniques sous un angle totalement inédit.",
+            "missions" : [ 
+                "Participer en tant que photographe utilisant un canon 90D avec un 18-135mm",
+                "Retouche photos"
+            ],
+            "outputs" :  [
+                "Sélectionner et retoucher une série de photos.",
+                "Partage des photos sur des plateformes en ligne et réseaux sociaux. (Instagram / Linkedin)"],
+            "skills": [
+                "Audiovisuel",
+                "Réseaux sociaux"
+            ],
+            "link" : "https://www.instagram.com/p/DAGgacHN0No/?img_index=1",
+            "picture": "breizhAirShow.png"
+        },
+        {
+            "title": "Chroniqueur sur la chaîne du Flambyshow",
+            "context": "Le Flambyshow est une émission étudiante à laquelle j’ai eu la chance de contribuer en tant que chroniqueur, tout en jouant un rôle essentiel dans sa conception et son développement. Chaque jeudi, avec une équipe passionnée de camarades, nous animions un live de 2 heures. Au programme : Chroniques, débats et animations en tout genre autour de thématiques variées comme le cinéma, la musique, l’art et d’autres sujets culturels. Lancé le 23 octobre 2023, En moins d’un an, nous avons réalisé 6 émissions, publié 59 vidéos, rassemblé plus de 200 abonnés et atteint plus de 36 000 vues. Une expérience inoubliable 🎤",
+            "missions" : [
+                "Conception et animation des émissions hebdomadaires en direct, en tant que chroniqueur, en préparant et en présentant des segments sur des sujets culturels divers.", 
+                "Coordination avec l'équipe pour la planification des émissions, la création de contenu, ainsi que la gestion des vidéos et des retours des abonnés."],
+            "outputs" :  [
+                "6 émissions en direct sur une année, comprenant des débats et des chroniques sur divers sujets.",
+                "59 vidéos publiées, allant des extraits d’émissions aux interviews et contenus spéciaux.",
+                "Croissance de l'audience, avec plus de 200 abonnés et 36 000 vues cumulées."],
+            "skills": [
+                "Écriture multimédia",
+                "Audiovisuel",
+                "Speaker"
+            ],
+            "link" : "https://www.youtube.com/@FLAMBYSHOW",
+            "picture": "flambyshow.png"
+        },
+        {
+            "title": "Réalisation d'un court-métrage de A à Z (Chambre 127)",
+            "context": "Le film Chambre 127 est une comédie satirique qui se déroule au sein d'un Crous, l'institution qui gère les résidences étudiantes en France. Le projet met en lumière la vie de trois étudiants de deuxième année, Tony, Max et Alex, qui, dans un projet de reportage pour leur cursus, décident de documenter la réalité de la vie étudiante dans un Crous. Cependant, les choses prennent une tournure imprévue alors que les trois amis se retrouvent confrontés à des situations absurdes et parfois déprimantes, entre galères administratives, relations humaines complexes et une immersion dans l'univers souvent méconnu du CROUS. À travers ce court-métrage, Chambre 127 aborde des thèmes universels comme la pression des études, les difficultés de la vie étudiante, mais aussi des sujets plus sérieux comme la dépression et les tensions qui naissent dans un cadre collectif. Cependant, le tout est traité avec un ton humoristique et décalé, créant une sorte de miroir à la réalité pour les étudiants et offrant une réflexion sur les attentes et déceptions de la vie universitaire. Le défi principal du projet résidait dans la négociation pour obtenir l'autorisation du CROUS, ce qui a nécessité plusieurs mois de démarches : appels téléphoniques, échanges de mails avec la directrice des CROUS de France, et des réunions interminables avant que le projet ne puisse enfin se concrétiser. Ce n'est qu'en juin, après trois mois de travail, que le tournage a pu avoir lieu, en deux après-midis seulement.",
+            "missions" :[
+                "Réalisation du court-métrage Chambre 127, incluant l'écriture et la réécriture du scénario, la création du storyboard, un dossier de production et des fiches personnages.",
+                "Négociation avec le CROUS pour obtenir l'autorisation de filmer dans une résidence étudiante, en menant des échanges administratifs, appels et réunions pendant trois mois."
+            ],
+            "outputs" :  [
+                "Un film comique abordant la réalité de la vie étudiante à travers les personnages de Tony, Max et Alex.",
+                "Un dossier de production complet incluant une note d'intention, un storyboard détaillé, et un ensemble de versions du scénario qui ont permis de définir le ton et les enjeux du projet."
+            ],
+            "skills": [
+                "Écriture multimédia",
+                "Réseaux sociaux",
+                "Audiovisuel"
+            ],
+            "link" : "https://www.youtube.com/watch?v=rWmZnQPOxIc",
+            "picture": "chambre127.png"
+        },
+        {
+            "title": "Projets 3D",
+            "context": "Passionné par la modélisation et la création visuelle, j’ai réalisé plusieurs projets 3D, aussi bien dans un cadre professionnel que personnel. Ces créations m’ont permis d’explorer différents styles et usages de la 3D, allant de la création d'un diorama, à une affiche pour un festival, en passant par le design pour le streaming.",
+            "missions" : ["Concevoir et réaliser des projets 3D adaptés à divers supports et besoins."],
+            "outputs" :  [ "Affiche officielle pour la 1ʳᵉ édition du Festival MMI.",
+            "Diorama 3D détaillé, explorant la mise en scène et l'ambiance visuelle.",
+            "Overlay de stream personnalisé pour la chaîne FlambyShow, combinant identité visuelle et animations adaptées au streaming."],
+            "skills": [
+                "3D",
+                "Graphisme"
+            ],
+            "link" : "https://www.instagram.com/p/DFQSs_zNqeF/",
+            "picture": "projet3D.png"
+        },
+        {
+            "title": "Présentateur du festival MMI",
+            "context": "Le Festival MMI est un événement annuel visant à mettre en avant les projets réalisés par les étudiants en Métiers du Multimédia et de l'Internet (MMI). Pour cette première édition à l'IUT de Lannion, j’ai eu l’honneur d’en être le présentateur, avec 2 collègues. Ce rendez-vous incontournable célèbre la créativité, l'innovation et le savoir-faire des étudiants à travers une remise de prix récompensant les meilleurs projets dans des domaines variés du numérique et du design.",
+            "missions" : ["Assurer la présentation de l'événement et animer la remise des prix. Engager et captiver le public tout au long de la cérémonie.","Introduire les différentes catégories et leurs nominés."],
+            "outputs" :  ["Annonce et mise en valeur des projets primés dans une dizaine de catégories, telles que : Prix du public, prix audiovisuel, Animation 3D, Motion design, Site web, Identité graphique et autres..."],
+            "skills": [
+                "Speaker"
+            ],
+            "link" : "https://www.youtube.com/watch?v=WNuuAjJ8SR0&t=1780s",
+            "picture": "présentateurFestivalMMI.png"
+        }
+    ],
+    
+    "interests": [
+        "La natation... (10 ans)",
+        "Le Karaté... (2 ans)",
+        "La photographie...",
+        "la vidéo...",
+        "Le monde du cinéma : Tarantino, Scorsese, Coppola, Nolan, Leconte, studio ghibli...",
+        "Jeux vidéo : BG3, Elden ring, Undertale, Dofus...",
+        "La philosophie : Platon, Descartes, Yung...",
+        "Le voyage : Italie, Suisse, Belgique, Espagne, Maroc"
+    ],
+
+    "contacts": [
+        {"name" : "Instagram", 
+        "url" : "https://www.instagram.com/hugi_tony_/",
+        "icon" : "insta.svg"},
+        {"name" : "LinkedIn", 
+        "url" : "https://www.linkedin.com/in/hugo-cossec-a14b86291/",
+        "icon" : "linkedin.svg"},
+        {"name" : "Mail", 
+        "url" : "mailto:hugo.cossec@etudiant.univ-rennes.fr",
+        "icon" : "mail.svg"}
+    ]
+}
